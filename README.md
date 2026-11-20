@@ -1,2 +1,9 @@
 # noticias-ia
-Resumen diario de noticias de inteligencia artificia, generado automáticamente.
+
+Resumen diario de noticias de inteligencia artificial, generado automáticamente.
+
+**Último informe:** [2026-11-20](noticias/2026/11/2026-11-20.md)
+
+## Archivo
+
+- [2026-11-20](noticias/2026/11/2026-11-20.md)
